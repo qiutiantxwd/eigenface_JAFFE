@@ -1,0 +1,6 @@
+images
+*.txt
+*.csv
+references
+.DS_Store
+.ipynb_checkpoints/
